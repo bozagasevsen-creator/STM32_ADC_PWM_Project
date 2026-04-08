@@ -1,6 +1,6 @@
 # STM32 Water Level Control System
 
-## 📌 Project Description
+##  Project Description
 This project is developed using STM32F072 microcontroller.
 
 - Water level is read using ADC (0–4095)
@@ -11,7 +11,7 @@ This project is developed using STM32F072 microcontroller.
 - TIM2 is used for time counting
 - PWM is used for control
 
-## ⚙️ Technologies Used
+## Technologies Used
 - STM32 HAL Library
 - ADC
 - UART (Interrupt)
@@ -19,12 +19,15 @@ This project is developed using STM32F072 microcontroller.
 - Timer Interrupt (TIM2)
 - GPIO
 
-## 🎯 Features
+##  Features
 - Real-time monitoring
 - Interrupt-based control
 - Embedded system design
 
-## 👨‍💻 Author
+##  Author
 Sevsen# STM32_ADC_PWM_Project
 STM32 project using ADC and PWM to control fan speed
+## CubeMX Pin Configuration
+
+![CubeMX Pins](cubemx-pins.png)
 
